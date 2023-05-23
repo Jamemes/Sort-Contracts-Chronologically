@@ -1,0 +1,17 @@
+{
+	"name": "Compact Host Info",
+	"description": "",
+	"author": "James",
+	"version": "5",
+	"hooks": [
+		{"hook_id": "lib/managers/menu/contractbrokergui",	"script_path": "contractbrokergui.lua"}
+	],
+	"updates" : [
+		{
+			"identifier" : "sort_chronologically",
+			"host": {
+				"meta": "https://raw.githubusercontent.com/Jamemes/Sort-Contracts-Chronologically/meta/meta.json"
+			}
+		}
+	]
+}
