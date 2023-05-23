@@ -1,8 +1,8 @@
 {
-	"name": "Compact Host Info",
+	"name": "Sort Contracts Chronologically",
 	"description": "",
 	"author": "James",
-	"version": "5",
+	"version": "1",
 	"hooks": [
 		{"hook_id": "lib/managers/menu/contractbrokergui",	"script_path": "contractbrokergui.lua"}
 	],
